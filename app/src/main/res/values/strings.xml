@@ -11,6 +11,6 @@
     <string name="xyx_reader">XYZ Reader</string>
     <string name="capstone">Capstone My Own App</string>
 
-    <!--ToastsÅ-->
+    <!--Toasts-->
     <string name="will_launch">This will launch %s</string>
 </resources>
